@@ -1,0 +1,7 @@
+E:\БОРОВ\Writers-readers\Writers-readers\bin\Debug\Writers-readers.exe.config
+E:\БОРОВ\Writers-readers\Writers-readers\bin\Debug\Writers-readers.exe
+E:\БОРОВ\Writers-readers\Writers-readers\bin\Debug\Writers-readers.pdb
+E:\БОРОВ\Writers-readers\Writers-readers\obj\Debug\Writers-readers.csprojAssemblyReference.cache
+E:\БОРОВ\Writers-readers\Writers-readers\obj\Debug\Writers-readers.csproj.CoreCompileInputs.cache
+E:\БОРОВ\Writers-readers\Writers-readers\obj\Debug\Writers-readers.exe
+E:\БОРОВ\Writers-readers\Writers-readers\obj\Debug\Writers-readers.pdb
